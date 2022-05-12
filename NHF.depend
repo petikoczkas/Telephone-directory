@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1589278393 source:c:\users\peti\desktop\nhf jo\nhf\ember.cpp
+	"ember.h"
+
+1589278753 c:\users\peti\desktop\nhf jo\nhf\ember.h
+	<iostream>
+	<string>
+	"nev.h"
+	"telszam.h"
+	"cim.h"
+
+1589123227 c:\users\peti\desktop\nhf jo\nhf\nev.h
+	<iostream>
+	<string>
+
+1589279581 c:\users\peti\desktop\nhf jo\nhf\telszam.h
+	<iostream>
+	<string>
+
+1589208828 c:\users\peti\desktop\nhf jo\nhf\cim.h
+	<iostream>
+	<string>
+
+1589278393 source:c:\users\peti\desktop\nhf\nhf\ember.cpp
+	"ember.h"
+
+1589305378 c:\users\peti\desktop\nhf\nhf\ember.h
+	<iostream>
+	<string>
+	"nev.h"
+	"telszam.h"
+	"cim.h"
+
+1589123227 c:\users\peti\desktop\nhf\nhf\nev.h
+	<iostream>
+	<string>
+
+1589279581 c:\users\peti\desktop\nhf\nhf\telszam.h
+	<iostream>
+	<string>
+
+1589208828 c:\users\peti\desktop\nhf\nhf\cim.h
+	<iostream>
+	<string>
+
+1589310105 source:c:\users\peti\desktop\nhf\nhf\main.cpp
+	<iostream>
+	<string>
+	"tlista.h"
+	"test.h"
+
+1589307646 c:\users\peti\desktop\nhf\nhf\tlista.h
+	<fstream>
+	"ember.h"
+	"memtrace.h"
+
+1587212938 c:\users\peti\desktop\nhf\nhf\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+
+1589282847 c:\users\peti\desktop\nhf\nhf\test.h
+	<iostream>
+	<string>
+	"tlista.h"
+
+1587212938 source:c:\users\peti\desktop\nhf\nhf\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1589309065 source:c:\users\peti\desktop\nhf\nhf\test.cpp
+	"test.h"
+
+1589309150 source:c:\users\peti\desktop\nhf\nhf\tlista.cpp
+	"tlista.h"
+
+1589306881 c:\users\peti\desktop\nhf\nhf\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
